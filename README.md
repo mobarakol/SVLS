@@ -45,7 +45,7 @@ To run a demo on all training options with BraTS 2019 <br>
 CUDA_VISIBLE_DEVICES=0,1 python demo.py --batch_size 2 --data_root /vol/biomedic3/mi615/datasets/BraTS/MICCAI_BraTS_2019_Data_Training/HGG_LGG/ --train_option SVLS
 ```
 
-The model architecture adopted from this [repository](https://github.com/wolny/pytorch-3dunet)
+The model architecture is adopted from this [repository](https://github.com/wolny/pytorch-3dunet)
 
 
 ## Citation
